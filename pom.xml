@@ -15,5 +15,6 @@
   	<module>configserver</module>
   	<module>consumer</module>
   	<module>msaa</module>
+  	<module>msab</module>
   </modules>
 </project>
